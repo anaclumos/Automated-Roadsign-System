@@ -24,7 +24,7 @@ If you want to see the **results**,
 ### [`View Fin Presentation PDF`](Fin-Presentation.pdf)
 
 or you can also see...
-### [`Demo Video`](IMG_0139.mp4)
+### [`Demo Video`](Demo.mp4)
 
 # If you are a Mac user...
 ### [`Mid Presentation Keynote`](Mid-Presentation.key)
