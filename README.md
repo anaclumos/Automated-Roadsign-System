@@ -1,8 +1,8 @@
-# Automated Roadsign System
+# Automated Traffic Light System
 
 ### Note: This project is from June ~ July 2017.
 
-This is an Automated Roadsign System that can handle efficient traffic management with audial assistance. It is simulated with Arduino Uno and a custom designed circuit board (designed by myself!)
+This is an Automated Traffic Light System that can handle efficient traffic management with audial assistance. It is simulated with Arduino Uno and a custom designed circuit board (designed by myself!)
 
 |Presentations|Content|Link|
 |----|----|----|
@@ -12,9 +12,9 @@ This is an Automated Roadsign System that can handle efficient traffic managemen
 ![`Circuit Designs`](resources/Circuit.jpg)
 
 ## Demo Video
-[![Automated Roadsign System Demo Video on YouTube](http://img.youtube.com/vi/VWpHIZOT2t8/0.jpg)](https://youtu.be/VWpHIZOT2t8)
+[![Automated Traffic Light System Demo Video on YouTube](http://img.youtube.com/vi/VWpHIZOT2t8/0.jpg)](https://youtu.be/VWpHIZOT2t8)
 
-## [RoadSign.ino](RoadSign.ino)
+## [TrafficLight.ino](TrafficLight.ino)
 ```ino
 boolean val1, val2;
 const int laser1 = 2;
