@@ -9,8 +9,6 @@ This is an Automated Traffic Light System that can handle efficient traffic mana
 |Mid Presentation|**idea** of the project|[resources/Mid/README.md](resources/Mid/README.md)|
 |Fin Presentation|**results** of the project|[resources/Fin/README.md](resources/Fin/README.md)|
 
-![`Circuit Designs`](resources/Circuit.jpg)
-
 ## Demo Video
 [![Automated Traffic Light System Demo Video on YouTube](http://img.youtube.com/vi/VWpHIZOT2t8/0.jpg)](https://youtu.be/VWpHIZOT2t8)
 
